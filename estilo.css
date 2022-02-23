@@ -14,12 +14,11 @@ section {
   margin: auto;
   background-color: rgb(248, 163, 163);
   width: 500px;
-  height: 450px;
   font-size: 18px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  border-radius: 20px;
-  box-shadow: 2px 2px 2px black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px black;
 }
 
 section div {
@@ -27,8 +26,9 @@ section div {
   margin: 20px;
 }
 
-#selcamp {
+#lista {
   margin-top: 20px;
+  width: 150px;
 }
 
 footer {
